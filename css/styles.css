@@ -17,7 +17,7 @@ ul { padding: 0; }
 a:hover { text-decoration: none; }
 button:focus { outline: none; }
 p { line-height: 1.9; }
-.tm-logo { margin-right: 40px; }
+.tm-logo { margin-right: 20px; }
 .tm-slogan { font-size: 0.8rem; }
 
 /* Navigation */
@@ -115,21 +115,20 @@ p { line-height: 1.9; }
     width: 50%;
     height: 100%;
     padding-left: 40px;  
-    padding-right: 70px;
+    padding-right: 40px;
 }
 
 .tm-col-right {
     width: 50%;
     height: 100%;
     padding-left: 70px;
-    padding-right: 60px;
-    background-image: url('/img/triangle.jpg');
+    padding-right: 70px;
 }
 
 .tm-content {
     max-width: 660px;
     margin-top: 50px;
-    padding-right: 40px;
+    padding-right: 20px;
 }
 
 .tm-about { max-width: 525px; }
@@ -185,8 +184,8 @@ hr { border-top: 1px solid white; }
 
 /* Service */ 
 .tm-service-text { max-width: 365px; }
-.tm-service-img { margin-right: 30px; }
-.tm-service-img-r { margin-left: 30px; }
+.tm-service-img { margin-right: 25px; }
+.tm-service-img-r { margin-left: 25px; }
 
 /* Contact */
 .form-control,
